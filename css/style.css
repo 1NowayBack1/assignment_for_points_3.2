@@ -24,7 +24,7 @@ body{
     margin-top: 52px;
 }
 
-.container__title{
+.prices__title{
     text-align: center;
     color: #fcfcfc;
     font-size: 35px;
@@ -32,7 +32,7 @@ body{
     padding-top: 75px;
 }
 
-.container__subtitle{
+.prices__subtitle{
     text-align: center;
     color: #fcfcfc;
     font-size: 18px;
@@ -125,7 +125,7 @@ img{
     text-transform: uppercase;
 }
 
-.footer__container{
+.services__container{
     max-width: 1920px;
     min-height: 703px;
     background-color: #006c00;
@@ -133,7 +133,7 @@ img{
     margin-bottom: 50px;
 }
 
-.footer__title{
+.services__title{
     text-align: center;
     color: #fcfcfc;
     font-size: 36px;
@@ -142,7 +142,7 @@ img{
     line-height: 18px;
 }
 
-.footer__subtitle{
+.services__subtitle{
     text-align: center;
     color: #fcfcfc;
     font-size: 18px;
@@ -150,7 +150,7 @@ img{
     margin-top: 56px;
 }
 
-.footer__wrap{
+.services__wrap{
     margin: auto;
     margin-top: 93px;
     max-width: 1210px;
@@ -159,11 +159,11 @@ img{
     flex-wrap: wrap;
 }
 
-.footer__wrap__card{
+.services__card{
     width: 330px;
     height: 340px;
 }
     
-.footer__wrap__card:last-child{
+.services__card:last-child{
     margin-right: 0;
 }
