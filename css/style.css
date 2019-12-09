@@ -64,10 +64,6 @@ body{
     margin-bottom: 20px;
 }
 
-.wrap__card:last-child{
-    margin-right: 0;
-}
-
 .card__title{
     font-size: 19px;
     font-weight: 700;
@@ -169,8 +165,4 @@ img{
 .services__img{
     width: 330px;
     height: 174px;
-}
-    
-.services__card:last-child{
-    margin-right: 0;
 }
