@@ -147,14 +147,14 @@ img{
 
 .services__title{
     margin-top: 110px;
+    margin-bottom: 56px;
 }
 
 .services__subtitle{
-    margin-top: 56px;
+    margin-bottom: 93px;
 }
 
 .services__wrap{
-    margin-top: 93px;
     min-width: 1210px;
     display: flex;
     justify-content: space-around;
