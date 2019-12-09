@@ -41,13 +41,15 @@ body{
     font-weight: 400;
 }
 
+.prices__title{
+    margin-bottom: 49px;
+}
 
 .prices__subtitle{
-    margin-top: 49px;
+    margin-bottom: 75px;
 }
 
 .wrap{
-    margin-top: 75px;
     min-width: 1400px;
     display: flex;
     justify-content: space-around;
